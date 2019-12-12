@@ -1,2 +1,1 @@
 "# Hostel-Managment-System" 
-Hostel Management system, this project is aimed to reduce paper work and to bring relative ease to manage large data items of hostel database. This also used to keep record of the new registrations of the students as well as previous records of the student. This project also brings out the one’s understanding on DBMS and JAVA and how one can use their concept and implement them to make a productive software. Hostel database management system is such an example.
